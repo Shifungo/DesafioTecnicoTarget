@@ -1,0 +1,10 @@
+{
+  "Movimentacoes": [
+    {
+      "CodigoMovimentacao": 1,
+      "CodigoProduto": 101,
+      "Quantidade": 12,
+      "DescricaoMovimentacao": "Venda"
+    }
+  ]
+}
